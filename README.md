@@ -1,12 +1,11 @@
-### Joshua is the name, coding is the game :sunglasses:
-
-## Welcome to my slice of the internet!
+## Welcome to my slice of the internet! :sunglasses:
 
 ### Technologies I'm currently learning
 * Data Science
 * Python
 * SQL and SQLite
 * Machine Learning
+* Arch Linux
 
 ### What am I up to?
 * Taking names on chess.com right [here](https://www.chess.com/member/yourmumssidepiece "Let's dance")
